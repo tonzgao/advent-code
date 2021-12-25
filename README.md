@@ -1,7 +1,4 @@
 # Advent of Code
 
-* [2021](https://adventofcode.com/2021): Python
-
-![2021 stats](./2021.jpg)
-
+* [2021](./2021): Python
 * Future plans: not sure. Maybe I'll try using Nim
