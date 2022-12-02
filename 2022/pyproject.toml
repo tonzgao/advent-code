@@ -8,6 +8,7 @@ authors = ["TonyG <tonyzgao@gmail.com>"]
 python = "3.11"
 numpy = "^1.23.5"
 ipykernel = "^6.18.0"
+sortedcontainers = "^2.4.0"
 
 [tool.poetry.dev-dependencies]
 notebook = "^6.5.2"
