@@ -217,6 +217,17 @@ optional = false
 python-versions = ">=3.5"
 
 [[package]]
+name = "intervaltree"
+version = "3.1.0"
+description = "Editable interval tree data structure for Python 2 and 3"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+sortedcontainers = ">=2.0,<3.0"
+
+[[package]]
 name = "ipykernel"
 version = "6.18.0"
 description = "IPython Kernel for Jupyter"
@@ -938,7 +949,7 @@ test = ["websockets"]
 [metadata]
 lock-version = "1.1"
 python-versions = "3.11"
-content-hash = "991d32126973812900afbc2fb07065b50d6633e4402eff585f92c0e6c1960eb8"
+content-hash = "0a8e34baf7c1f0d56d8efaeb0dcb8ec702d77e9361b183ec6dca58f1fced728e"
 
 [metadata.files]
 anyio = []
@@ -1071,6 +1082,7 @@ entrypoints = [
 executing = []
 fastjsonschema = []
 idna = []
+intervaltree = []
 ipykernel = []
 ipython = []
 ipython-genutils = [
