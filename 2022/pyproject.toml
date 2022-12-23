@@ -14,6 +14,7 @@ scipy = "^1.9.3"
 networkx = "^2.8.8"
 matplotlib = "^3.6.2"
 ortools = "^9.5.2237"
+bidict = "^0.22.0"
 
 [tool.poetry.dev-dependencies]
 notebook = "^6.5.2"
