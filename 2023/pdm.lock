@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform"]
 lock_version = "4.4"
-content_hash = "sha256:8e6e0d4be798fd3066b161b6f0038fe1b4311cedc2887fc20006846f85ba4017"
+content_hash = "sha256:26491c50a3eb98d286956e1acb259f47a12dfc9610a35c5a06ec570185a293e7"
 
 [[package]]
 name = "appnope"
@@ -217,6 +217,14 @@ dependencies = [
 files = [
     {file = "matplotlib-inline-0.1.6.tar.gz", hash = "sha256:f887e5f10ba98e8d2b150ddcf4702c1e5f8b3a20005eb0f74bfdbd360ee6f304"},
     {file = "matplotlib_inline-0.1.6-py3-none-any.whl", hash = "sha256:f1f41aab5328aa5aaea9b16d083b128102f8712542f819fe7e6a420ff581b311"},
+]
+
+[[package]]
+name = "modint"
+version = "0.4.0"
+summary = "Python implementation of the Chinese Remainder algorithm"
+files = [
+    {file = "modint-0.4.0.tar.gz", hash = "sha256:86c4c2ea0fba6541922ed4e3c1d44ed817be6af602479483cad986e31aa02445"},
 ]
 
 [[package]]
