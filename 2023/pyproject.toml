@@ -13,6 +13,8 @@ dependencies = [
     "modint>=0.4.0",
     "networkx>=3.2.1",
     "matplotlib>=3.8.2",
+    "ortools>=9.8.3296",
+    "z3-solver>=4.12.4.0",
 ]
 requires-python = ">=3.12,<3.13"
 readme = "README.md"
