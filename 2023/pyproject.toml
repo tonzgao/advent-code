@@ -9,11 +9,8 @@ dependencies = [
     "ipykernel>=6.26.0",
     "numpy>=1.26.1",
     "intervaltree>=3.1.0",
-    "scipy>=1.11.4",
-    "modint>=0.4.0",
     "networkx>=3.2.1",
     "matplotlib>=3.8.2",
-    "ortools>=9.8.3296",
     "z3-solver>=4.12.4.0",
 ]
 requires-python = ">=3.12,<3.13"
