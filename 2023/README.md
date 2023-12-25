@@ -5,4 +5,6 @@ Brushing off my coding skills during my sabbatical. Coincident with first time i
 Goals
 ------
 * Use pdm and python 3.12
-* Try to finish all gold stars on day of puzzle
+* Try to finish all gold stars on day of puzzle (failed)
+
+![Alt text](2023.png)
