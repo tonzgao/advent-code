@@ -4,7 +4,7 @@ Python skill retention project. Traveling around the Straits, so probably won't 
 
 Goals
 ------
-* Use uv and python 3.14 (PI)
+* Use uv
 * Try to finish all gold stars on day of puzzle
 
 ![alt text](2024.png)
