@@ -12,4 +12,5 @@ dependencies = [
     "numpy>=2.3.5",
     "pip>=25.3",
     "shapely>=2.1.2",
+    "z3-solver>=4.15.4.0",
 ]
